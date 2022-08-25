@@ -85,7 +85,7 @@ Cache name: carcache
           "statistics": true,
           "encoding": {
             "key": {
-              "media-type": "plain/text"
+              "media-type": "text/plain"
             },
             "value": {
               "media-type": "application/xml"
